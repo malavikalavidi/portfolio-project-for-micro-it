@@ -1,4 +1,3 @@
-# portfolio-project-for-micro-it
 <!DOCTYPE html> 
 <html lang="en">
 <head>
@@ -88,7 +87,7 @@
     <!-- Header -->
     <header>
         <!-- ✅ Profile Picture Line Added -->
-        <img src="C:\Users\malav\OneDrive\画像\Camera Roll\WhatsApp Image 2025-05-21 at 20.24.17.jpeg" alt="Malavika Lavidi" class="profile-pic">
+        <img src="C:\Users\malav\OneDrive\画像\Camera Roll\WhatsApp Image 2025-05-21 at 20.24.17.jpeg" class="profile-pic">
         <h1>Malavika Lavidi</h1>
         <p>AI Data Analyst | Data Science Enthusiast | Problem Solver</p>
     </header>
@@ -106,10 +105,12 @@
             <li><strong>Project 1:</strong> <a href="https://link-to-project1.com" target="_blank">Customer Churn Prediction</a> - An intelligent customer retention platform that predicts churn and leverages machine learning to identify at-risk customers and recommend personalized interventions. It optimizes customer experiences and drives business growth with real-time analytics and predictive modeling. – what it is, what tools you used, what problems it solved.</li>
         </ul>
         <ul>
-            <li><strong>Project 2:</strong> <a href="https://link-to-project1.com" target="_blank">Portfolio</a> - I created a portfolio to showcase my skills, work experience, and projects, effectively demonstrating my capabilities and value to potential employers or clients. This portfolio highlights my achievements and personal brand, helping me stand out in my industry and build credibility.</li>
+            <li><strong>Project 2:</strong> <a href="https://malavikalavidi.github.io/portfolio-project-for-micro-it/" target="_blank">Portfolio</a> - I created a portfolio to showcase my skills, work experience, and projects, effectively demonstrating my capabilities and value to potential employers or clients. This portfolio highlights my achievements and personal brand, helping me stand out in my industry and build credibility.</li>
         </ul>
         <ul>
-            <li><strong>Project 3:</strong> <a href="https://malavikalavidi.github.io/blog-website-project-for-micro-it/" target="_blank">Blog website</a> - An intelligent customer retention platform that predicts churn and leverages machine learning to identify at-risk customers and recommend personalized interventions. It optimizes customer experiences and drives business growth with real-time analytics and predictive modeling. – what it is, what tools you used, what problems it solved.</li>
+            <li><strong>Project 3:</strong> <a href="https://malavikalavidi.github.io/blog-website-project-for-micro-it/" target="_blank">Blog website</a> - A clean and user-friendly blogging platform where anyone can write and share their thoughts.
+Built with modern web technologies to ensure a smooth writing and reading experience.
+It helps people express themselves, connect with others, and build a personal online presence.</li>
         </ul>
     </section>
 
